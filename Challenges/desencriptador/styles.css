@@ -75,3 +75,28 @@ button {
 #resultBox {
   font-weight: bold;
 }
+
+/*
+#footer {
+  text-align: center;
+  margin-top: 0;
+}
+
+#socialMedia {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+#socialMedia li {
+  display: inline;
+  margin: 0 10px;
+  text-align: center;
+}
+
+#socialMedia img {
+  width: 50px; 
+  height: auto;
+  align-items: end;
+}
+*/
